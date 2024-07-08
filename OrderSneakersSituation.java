@@ -19,7 +19,7 @@ public class OrderSneakersSituation {
         // TODO: 클래스를 선언하고, 객체간의 협력으로 구현해주세요.
 
 
-        NikeSneakers nikeSneakers = new NikeSneakers("편안한", 50_000, false); //신발객체 생성
+        NikeSneakers nikeSneakers = new NikeSneakers("편안한", 62_300, false); //신발객체 생성
 
         Customer customer = new Customer(100_000, true); //고객 객체 생성
         Staff staff = new Staff(100_000); //점원 객체 생성
